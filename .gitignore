@@ -1,0 +1,24 @@
+# Java / Spring / IDE
+target/
+build/
+out/
+.gradle/
+*.class
+*.log
+*.iml
+.idea/
+.vscode/
+
+# Node (if present)
+node_modules/
+dist/
+
+# PHP / Laravel (if present)
+vendor/
+public/storage
+storage/*.key
+
+# OS & secrets
+.DS_Store
+*.swp
+.env
